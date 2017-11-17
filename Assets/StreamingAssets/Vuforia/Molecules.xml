@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Levadura" size="1.000000 1.050459" />
+    <ImageTarget name="Grasa" size="1.000000 0.881329" />
+    <ImageTarget name="Azul" size="1.000000 0.458445" />
+    <ImageTarget name="DGlucosa" size="1.000000 0.590741" />
+    <ImageTarget name="CrCl3" size="1.000000 0.744624" />
+    <ImageTarget name="NaOH" size="1.000000 0.675403" />
+    <ImageTarget name="SOL" size="1.000000 1.000000" />
+    <ImageTarget name="2" size="1.000000 0.812500" />
+    <ImageTarget name="Adicion_1" size="1.000000 0.422151" />
+    <ImageTarget name="testImg" size="0.500000 0.888889" />
+  </Tracking>
+</QCARConfig>
